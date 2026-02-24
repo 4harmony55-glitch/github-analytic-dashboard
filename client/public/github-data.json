@@ -1,0 +1,99 @@
+{
+  "repository": {
+    "name": "agent-framework",
+    "owner": "microsoft",
+    "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+    "url": "https://github.com/microsoft/agent-framework",
+    "stars": 7408,
+    "forks": 1215,
+    "language": "Python",
+    "createdAt": "2025-04-28T19:40:42Z",
+    "updatedAt": "2026-02-24T09:55:43Z"
+  },
+  "contributors": [
+    {"login": "eavanvalkenburg", "contributions": 148},
+    {"login": "dmytrostruk", "contributions": 138},
+    {"login": "westey-m", "contributions": 138},
+    {"login": "dependabot[bot]", "contributions": 124},
+    {"login": "moonbox3", "contributions": 123},
+    {"login": "giles17", "contributions": 75},
+    {"login": "Copilot", "contributions": 72},
+    {"login": "rogerbarreto", "contributions": 71},
+    {"login": "TaoChenOSU", "contributions": 62},
+    {"login": "markwallace-microsoft", "contributions": 59},
+    {"login": "stephentoub", "contributions": 59},
+    {"login": "SergeyMenshykh", "contributions": 54},
+    {"login": "crickman", "contributions": 53},
+    {"login": "lokitoth", "contributions": 49},
+    {"login": "ekzhu", "contributions": 36},
+    {"login": "DeagleGross", "contributions": 23},
+    {"login": "victordibia", "contributions": 23},
+    {"login": "ReubenBond", "contributions": 16},
+    {"login": "alliscode", "contributions": 13},
+    {"login": "adityamandaleeka", "contributions": 10}
+  ],
+  "pullRequests": [
+    {
+      "title": ".NET: Support InvokeMcpTool for declarative workflows",
+      "author": "peibekwe",
+      "createdAt": "2026-02-24T02:18:55Z",
+      "state": "OPEN"
+    },
+    {
+      "title": "Python: Add `file_ids` support to `AzureAIAgentClient.get_code_interpreter_tool()`",
+      "author": "giles17",
+      "createdAt": "2026-02-23T23:34:15Z",
+      "state": "OPEN"
+    },
+    {
+      "title": ".NET: Fix JSON arrays of objects parsed as empty records when no schema is defined",
+      "author": "LEDazzio01",
+      "createdAt": "2026-02-23T23:01:49Z",
+      "state": "OPEN"
+    },
+    {
+      "title": "docs: add Declarative Workflow YAML schema reference",
+      "author": "LEDazzio01",
+      "createdAt": "2026-02-23T22:51:51Z",
+      "state": "OPEN"
+    },
+    {
+      "title": "Python: Fix: Parse oauth_consent_request events in Azure AI client",
+      "author": "giles17",
+      "createdAt": "2026-02-23T22:44:51Z",
+      "state": "OPEN"
+    }
+  ],
+  "issues": [
+    {
+      "title": ".NET: Consider adding support for passing response messages in *Provider.InvokingAsync",
+      "author": "westey-m",
+      "createdAt": "2026-02-24T09:37:17Z",
+      "state": "OPEN"
+    },
+    {
+      "title": "Precision Decisioning & Agentic Trust: Cryptographic proof of authorization for agent workflows",
+      "author": "knuckles-stack",
+      "createdAt": "2026-02-24T02:03:41Z",
+      "state": "OPEN"
+    },
+    {
+      "title": ".NET - Workflows - CustomAgentExecutors sample not working",
+      "author": "mvp013",
+      "createdAt": "2026-02-24T00:38:33Z",
+      "state": "OPEN"
+    },
+    {
+      "title": ".NET: [Bug]: Declarative workflow - JSON arrays of objects parsed as empty records when no schema is defined",
+      "author": "vvotekeb",
+      "createdAt": "2026-02-23T21:50:56Z",
+      "state": "OPEN"
+    },
+    {
+      "title": "Documentation for Declarative Workflow YAML",
+      "author": "CKThompson00",
+      "createdAt": "2026-02-23T19:26:31Z",
+      "state": "OPEN"
+    }
+  ]
+}
